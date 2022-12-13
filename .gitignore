@@ -1,0 +1,6 @@
+# Ignorera pycache-kataloger
+__pycache__/
+
+
+# Ignorera PyCharm-kataloger
+.idea/
